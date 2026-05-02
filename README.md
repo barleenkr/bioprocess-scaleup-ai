@@ -6,7 +6,7 @@ An AI-powered web application designed to assist in bioprocess scale-up by predi
 
 ## 🌐 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://bioprocess-scaleup-ai.vercel.app/
 
 ---
 
