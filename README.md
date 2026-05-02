@@ -8,8 +8,6 @@ An AI-powered web application designed to assist in bioprocess scale-up by predi
 
 👉 https://your-vercel-link.vercel.app
 
-⚠️ Note: The backend is hosted on a free tier and may take **10–20 seconds** to respond on the first request (cold start).
-
 ---
 
 ## 🚀 Key Features
